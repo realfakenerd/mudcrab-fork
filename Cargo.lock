@@ -2332,7 +2332,7 @@ dependencies = [
 
 [[package]]
 name = "converter"
-version = "0.1.0"
+version = "0.1.0-rc.1"
 dependencies = [
  "basis-universal",
  "cc",
@@ -2767,7 +2767,7 @@ checksum = "d8b14ccef22fc6f5a8f4d7d768562a182c04ce9a3b3157b91390b52ddfdf1a76"
 
 [[package]]
 name = "dummy-content"
-version = "0.1.0"
+version = "0.1.0-rc.1"
 dependencies = [
  "color-eyre",
  "criterion",
@@ -2833,7 +2833,7 @@ checksum = "34aa73646ffb006b8f5147f3dc182bd4bcb190227ce861fc4a4844bf8e3cb2c0"
 
 [[package]]
 name = "engine"
-version = "0.1.0"
+version = "0.1.0-rc.1"
 dependencies = [
  "bevy",
  "bevy_rapier3d",
@@ -4129,7 +4129,7 @@ dependencies = [
 
 [[package]]
 name = "launcher"
-version = "0.1.0"
+version = "0.1.0-rc.1"
 dependencies = [
  "bevy",
  "converter",
@@ -4447,7 +4447,7 @@ dependencies = [
 
 [[package]]
 name = "mo2"
-version = "0.1.0"
+version = "0.1.0-rc.1"
 dependencies = [
  "color-eyre",
  "serde",
@@ -6313,7 +6313,7 @@ dependencies = [
 
 [[package]]
 name = "shared"
-version = "0.1.0"
+version = "0.1.0-rc.1"
 dependencies = [
  "color-eyre",
  "rkyv",
